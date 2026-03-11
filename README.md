@@ -14,7 +14,7 @@ Python pipeline developed for my Bachelor's thesis for preprocessing, clustering
 
 UMAP embedding of cells with annotated cell types.
 
-![UMAP](images/umap_annotated_supercluster_sidelegend.pdf)
+![UMAP](images/umap_annotated_supercluster_sidelegend.png)
 
 ---
 
@@ -22,7 +22,7 @@ UMAP embedding of cells with annotated cell types.
 
 Heatmap diagram showing global communication patterns between cell populations.
 
-![Interactions](images/global_communication_patterns.R.pdf)
+![Interactions](images/global_communication_patterns.R.png)
 
 ---
 
