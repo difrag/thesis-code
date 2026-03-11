@@ -6,7 +6,7 @@ Python pipeline developed for my Bachelor's thesis for preprocessing, clustering
 
 ## Analysis Workflow
 
-![Pipeline](images/scrna_pipeline.png)
+![Pipeline](images/pipeline.png)
 
 ---
 
@@ -14,22 +14,15 @@ Python pipeline developed for my Bachelor's thesis for preprocessing, clustering
 
 UMAP embedding of cells with annotated cell types.
 
-![UMAP](images/umap_celltypes.png)
+![UMAP](images/umap_annotated_supercluster_sidelegend.pdf)
 
 ---
 
 ## Cell–Cell Communication
 
-Chord diagram showing inferred interactions between cell populations.
+Heatmap diagram showing global communication patterns between cell populations.
 
-![Interactions](images/cell_interactions.png)
+![Interactions](images/global_communication_patterns.R.pdf)
 
 ---
 
-## Tech Stack
-
-- Python
-- Scanpy
-- NumPy
-- Pandas
-- Matplotlib
